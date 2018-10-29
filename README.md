@@ -1,5 +1,6 @@
 # tc_ai_test_php
 根据腾讯公开ai接口（https://ai.qq.com/）开发的php应用程序，目前实现了人脸识别 、对比、搜索，以及ocr的相关功能，欢迎大家完善
+使用的是Apache2.4,使用时将htdocs目录复制apache目录下并覆盖同名目录即可。
 详细功能如下：
 echo "1: 身份证ocr<br>";
 echo "2: 车牌ocr<br>";
